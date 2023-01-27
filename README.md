@@ -1,3 +1,1 @@
-# Add your own Google API key to get the application working. 
-
-
+Add your own .env file and Google API key to get the application funcitoning. 
